@@ -1,5 +1,5 @@
 # solder-nametag
-My first PCB! A simple nametag with an  LED that lights up in the dark, and another LED whose light intensity fades in with a push of a button. I added pictures of the sun and moon to represent their presence in the form of the LED light depending on whether the surroundings are dark (night) or have ligh (day).
+My first PCB! A simple nametag with an  LED that lights up in the dark using a photoresistor, and another LED whose light intensity fades in with a push of a button using a capacitor. I added pictures of the sun and moon to represent their presence in the form of the LED light depending on whether the surroundings are dark (night) or have light (day).
 
 slack username: @haya
 
